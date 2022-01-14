@@ -1,4 +1,4 @@
-### Olá! Eu sou Ruben Manuel🖐🏾
+### Olá! Eu sou Ruben Manuel, um *programador* dedicado e com gosto de aprender constantemente.
 
 - 🌱 Estudando **Back-end** 💻
 - 😄 Pronouns: Ele/Dele
