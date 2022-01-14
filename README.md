@@ -28,5 +28,5 @@
     </div>
 ##
   <div>
-   [![readme](https://github-readme-stats.vercel.app/api/pin/?username=RubenManuel24&repo=RubenManuel24&theme=react)](https://github.com/RubenMnauel24RubenManuel24)
+   [![readme](https://github-readme-stats.vercel.app/api/pin/?username=RubenManuel24&repo=RubenManuel24&theme=react)](https://github.com/RubenManuel24/RubenManuel24)
  </div>
