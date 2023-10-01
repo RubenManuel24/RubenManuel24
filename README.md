@@ -1,4 +1,4 @@
-### Olá! Eu sou Ruben Manuel, um *programador* dedicado e com gosto de aprender constantemente.
+## Olá! Eu sou Ruben Manuel, um *_desenvolvedor mobile_* dedicado e com gosto de aprender constantemente.
 
 - 🌱 Dev **Mobile com Flutter|Dart** 💻
 
